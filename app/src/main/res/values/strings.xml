@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DocumentManagment</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_odjava">Odjava</string>
+    <string name="title_activity_promjena_statusa">promjenaStatusa</string>
+</resources>
